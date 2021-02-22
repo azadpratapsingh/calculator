@@ -1,0 +1,19 @@
+
+
+
+#top{
+  width:20%; 
+    display: block; 
+   
+  margin-right: 10%;
+  margin-bottom: 10%;
+     
+    background-color: #fff; 
+    border: 1px solid #ddd; 
+    border-radius: 2px; 
+    float:left; 
+
+}
+.button{
+  cursor:pointer;
+}
